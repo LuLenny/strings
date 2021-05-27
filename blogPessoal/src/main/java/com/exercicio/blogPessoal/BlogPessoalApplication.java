@@ -1,13 +1,13 @@
-package com.exercicio.atividadeApiBlogpessoal;
+package com.exercicio.blogPessoal;
 
 import org.springframework.boot.SpringApplication;
+
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AtividadeApiBlogpessoalApplication {
+public class BlogPessoalApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AtividadeApiBlogpessoalApplication.class, args);
+		SpringApplication.run(BlogPessoalApplication.class, args);
 	}
-
 }

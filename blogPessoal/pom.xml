@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.exercicio</groupId>
-	<artifactId>atividadeApiBlogpessoal</artifactId>
+	<artifactId>blogPessoal</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>atividadeApiBlogpessoal</name>
-	<description>ESTA É UMA ATIVIDADE DE API</description>
+	<name>blogPessoal</name>
+	<description>esta e uma atividade api</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
